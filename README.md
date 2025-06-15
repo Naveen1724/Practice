@@ -23,11 +23,12 @@
 
 > Black Qoute
 
-'''Single line of code'''
-'''
+` Single line of code `
+```
 #Include<stdio.h>
 int a,b;
 Printf("Enter the Value:");
 scanf("%d %d, &a, &b");
 printf("Hello World")
-'''
+
+```
