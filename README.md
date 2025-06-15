@@ -25,6 +25,7 @@
 
 ` Single line of code `
 ```
+** Multiple lines of code **
 #Include<stdio.h>
 int a,b;
 Printf("Enter the Value:");
@@ -32,3 +33,8 @@ scanf("%d %d, &a, &b");
 printf("Hello World")
 
 ```
+##### Horizantal Line
+---
+
+#### Insert any URL
+[Deadpool](https://www.google.com)
