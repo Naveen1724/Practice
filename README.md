@@ -41,3 +41,19 @@ printf("Hello World")
 
 #### Insert any Image
 ![My First Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzlPJ9vlSadIBYfYupVE7jNAwtR_aohQ6Hg&s)
+
+#### T0 Use Checklist
+- [ ] Google
+- [X] AWS
+- [ ] Microsoft
+
+
+
+
+
+
+
+
+
+
+
