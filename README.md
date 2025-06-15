@@ -48,10 +48,14 @@ printf("Hello World")
 - [ ] Microsoft
 
 
-### AWS[^1]
+### Footnote AWS[^1]
 [^1]: Cloud Computing 
 
+### Insert a Table
 
+|Name|College|District|
+|---|---|---|
+|Naveen Kumar|RGUKT|Srikakulam|
 
 
 
