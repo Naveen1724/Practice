@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+ 
+.main-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+}
+.Top-heading {
+    font-size: 35px;
+    font-family: "Bree serif";
+    color: #ffffff;
+    margin: 20px;
+    margin-bottom: 0px;
+}
+.top-image {
+    height: 200px;
+}
+.top-section-card {
+    background-color: #e6f6ff;
+    height: 200px;
+    border-radius: 8px;
+    margin: 20px;
+}
+.top-section-card-description-title {
+    font-family: "Bree serif";
+    font-size: 18px;
+    color: #183b56;
+}
+.top-section-card-description {
+    padding: 20px;
+}
+.top-section-card-description-description {
+    color: #06070d;
+    font-family: "Bree serif";
+    font-size: 14px;
+}
+.top-section-card-description-author {
+    color: #183b56;
+    font-family: "Bree serif";
+    font-size: 12px;
+}
+.bottom-section-title {
+    font-size: 26px;
+    font-family: "Bree serif";
+    color: #e4e7eb;
+}
+.bottom-section {
+    margin-left: 20px;
+}
+.bottom-section-card {
+    height: 175px;
+}
+.bottom-image {
+    height: 150px;
+}
+.bottom-section-card-description-title {
+    font-family: "Bree serif";
+    font-size: 18px;
+    color: #e4e7eb;
+}
+.bottom-section-card-description {
+    padding: 10px;
+}
+.bottom-section-card-description-description {
+    color: #9aa5b1;
+    font-family: "Bree serif";
+    font-size: 14px;
+}
+.main-container2 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+}
+.top-image1 {
+    height: 50vh;
+}
+.bookmiddlesection {
+    color: #ffffff;
+    font-family: "Bree serif";
+    padding-top: 10px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.middle-section-title  {
+    font-size: 30px;
+}
+.middle-section-description {
+    color: #98a1bd;
+    font-size: 12px;
+}
+.bottom-section-description {
+    color: #e6f6ff;
+    font-family: "Bree serif";
+    font-size: 12px;
+    margin: 20px;
+}
